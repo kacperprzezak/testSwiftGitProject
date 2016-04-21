@@ -26,6 +26,9 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CuS-El-BB3">
                                 <rect key="frame" x="277" y="49" width="46" height="30"/>
                                 <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="qsP-iS-mkI" kind="show" id="aFJ-82-7jH"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -66,7 +69,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mt9-PG-Srq" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1147" y="1064"/>
+            <point key="canvasLocation" x="777" y="418"/>
         </scene>
     </scenes>
 </document>
