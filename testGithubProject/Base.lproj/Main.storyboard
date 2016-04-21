@@ -38,10 +38,10 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
         </scene>
-        <!--View Controller-->
+        <!--Second View Controller-->
         <scene sceneID="kAK-Kc-rAN">
             <objects>
-                <viewController id="qsP-iS-mkI" sceneMemberID="viewController">
+                <viewController id="qsP-iS-mkI" customClass="SecondViewController" customModule="testGithubProject" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Iyp-dA-YI2"/>
                         <viewControllerLayoutGuide type="bottom" id="Sbf-xZ-FNZ"/>
@@ -66,7 +66,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mt9-PG-Srq" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="890" y="404"/>
+            <point key="canvasLocation" x="1147" y="1064"/>
         </scene>
     </scenes>
 </document>

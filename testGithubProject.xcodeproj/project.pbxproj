@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B57CB431CC8FCEB008DA2DC /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B57CB421CC8FCEB008DA2DC /* SecondViewController.swift */; };
 		5BC78F541CC8F63C0071F46B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC78F531CC8F63C0071F46B /* AppDelegate.swift */; };
 		5BC78F561CC8F63C0071F46B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BC78F551CC8F63C0071F46B /* ViewController.swift */; };
 		5BC78F591CC8F63C0071F46B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BC78F571CC8F63C0071F46B /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5B57CB421CC8FCEB008DA2DC /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		5BC78F501CC8F63C0071F46B /* testGithubProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testGithubProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BC78F531CC8F63C0071F46B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5BC78F551CC8F63C0071F46B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				5BC78F5F1CC8F63C0071F46B /* LaunchScreen.storyboard */,
 				5BC78F621CC8F63C0071F46B /* Info.plist */,
 				5BC78F5A1CC8F63C0071F46B /* testGithubProject.xcdatamodeld */,
+				5B57CB421CC8FCEB008DA2DC /* SecondViewController.swift */,
 			);
 			path = testGithubProject;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B57CB431CC8FCEB008DA2DC /* SecondViewController.swift in Sources */,
 				5BC78F561CC8F63C0071F46B /* ViewController.swift in Sources */,
 				5BC78F541CC8F63C0071F46B /* AppDelegate.swift in Sources */,
 				5BC78F5C1CC8F63C0071F46B /* testGithubProject.xcdatamodeld in Sources */,
@@ -291,6 +295,7 @@
 				5BC78F671CC8F63C0071F46B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
